@@ -35,4 +35,4 @@ Você também pode receber atualizações das vagas no seu email ou via notifica
 
 ## Agradecimento
 
-Agradecimento especial para a comunidade [Front-End BR](https://github.com/frontendbr) que inspirou essa página :smile:
+Agradecimento especial para a comunidade [Front-End BR](https://github.com/frontendbr) que inspirou esse repositório :smile:
