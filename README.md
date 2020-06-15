@@ -22,7 +22,7 @@ Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
 ### Como receber atualizações de novas vagas:
 
-Todas as oportunidades serão automaticamente compartilhadas no [https://minasdev.org/vagas](https://minasdev.org/vagas).
+Todas as oportunidades serão automaticamente compartilhadas no [https://minasdev.org/vagas](https://minasdev.org/vagas) e no nosso canal `#vagas` no nosso [Slack](https://minasdev.org/slack).
 
 Você também pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
