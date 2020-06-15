@@ -2,7 +2,7 @@
 
 Espaço para a divulgação de vagas para devs via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/minasdev/vagas/issues
+Vagas disponíveis em https://minasdev.org/vagas ou https://github.com/minasdev/vagas/issues
 
 ### Cadastrando uma vaga
 
