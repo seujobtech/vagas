@@ -1,7 +1,4 @@
-<h1 align="center">Minas Dev Vagas</h1>
-<p align="center">:microscope: Espaço para divulgação de vagas para devs.</p>
-
-# Vagas
+# Minas Dev Vagas
 
 Espaço para a divulgação de vagas para devs via _issues_ do Github.
 
