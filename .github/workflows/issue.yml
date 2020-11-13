@@ -1,12 +1,13 @@
 name: Labeling new issue
 on:
   issues:
-    types: ["opened"]
+      types: ['opened']
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Renato66/auto-label@v2.1.3
+      - uses: Renato66/auto-label@v2
         with:
           repo-token: ${{ secrets.USER_TOKEN }}
+          labels-synonyms: '{"🦠 Remoto durante pandemia":["Vaga Remota durante a pandemia"]}'
           labels-not-allowed: '["Stale","Pendente de informações","Falta de informações"]'
