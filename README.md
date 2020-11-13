@@ -22,7 +22,7 @@ Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
 ### Como receber atualizações de novas vagas:
 
-Todas as oportunidades serão automaticamente compartilhadas no [Twitter](https://twitter.com/minasdev) e [LinkedIn](https://linkedin.com/company/minasdev).
+Todas as oportunidades serão automaticamente compartilhadas no [Twitter](https://twitter.com/minasdev).
 
 Além disso, haverá o envio de uma Newsletter inteiramente dedicada para Vagas para nossos mais de 2000 subscribers.
 
