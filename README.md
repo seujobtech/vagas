@@ -1,8 +1,8 @@
-# Minas Dev Vagas
+# SeuJob.Tech Vagas
 
 Espaço para a divulgação de vagas para devs via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/minasdev/vagas
+Vagas disponíveis em https://github.com/seujobtech/vagas
 
 ### Cadastrando uma vaga
 
@@ -18,11 +18,11 @@ Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
 1. Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/minasdev/vagas/blob/master/.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
+2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/seujobtech/vagas/blob/master/.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
 ### Como receber atualizações de novas vagas:
 
-Todas as oportunidades serão automaticamente compartilhadas no [Twitter](https://twitter.com/minasdev).
+Todas as oportunidades serão automaticamente compartilhadas no [Twitter](https://twitter.com/seujobtech).
 
 Além disso, haverá o envio de uma Newsletter inteiramente dedicada para Vagas para nossos mais de 2000 subscribers.
 
@@ -30,8 +30,8 @@ Você também pode receber atualizações das vagas no seu email ou via notifica
 
 ## Licença
 
-[MIT](/LICENSE) &copy; Minas Dev
+[MIT](/LICENSE) &copy; SeuJob.Tech
 
 ## Agradecimento
 
-Agradecimento especial para a comunidade [Front-End BR](https://github.com/frontendbr) que inspirou esse repositório :smile:
+Agradecimento especial para a comunidade [Front-End BR](https://github.com/frontendbr) e [Minas Dev](https://github.com/minasdev) que inspirou esse repositório :smile:
