@@ -1,8 +1,6 @@
 # SeuJob.Tech Vagas
 
-Espaço para a divulgação de vagas para devs via _issues_ do Github.
-
-Vagas disponíveis em https://seujob.tech/
+Espaço para a divulgação de vagas no site **[SeuJob.Tech](https://seujob.tech/)** via _issues_ do Github.
 
 ### Cadastrando uma vaga
 
@@ -10,9 +8,9 @@ Vagas disponíveis em https://seujob.tech/
 
 Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
-2. Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
+2. Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada, forma de contração, etc.
 
-**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
+**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante ou com título fora do formato desejado.
 
 #### Importante
 
@@ -22,9 +20,11 @@ Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
 ### Como receber atualizações de novas vagas:
 
-Todas as oportunidades serão automaticamente compartilhadas no [Twitter](https://twitter.com/seujobtech).
+Através do site [SeuJob.Tech](https://seujob.tech/), que por sua vez também possui uma categoria dedicada para vagas da [Comunidade SeuJob.Tech](https://seujob.tech/categorias/comunidade-seujobtech).
 
-Além disso, haverá o envio de uma Newsletter inteiramente dedicada para Vagas para nossos mais de 2000 subscribers.
+Vagas deste repositório poderão ser compartilhadas de forma randômica no [Twitter](https://twitter.com/seujobtech), [Telegram](https://t.me/seujobtech), ,[Instagram](https://instagram.com/seujobtech), [Facebook](https://facebook.com/seujobtech), [LinkedIn](https://www.linkedin.com/company/seujobtech) e [Newsletter]().
+
+Além disso, vagas serão listadas via [RSS](https://seujob.tech/api/rss/comunidade-seujobtech) dedicado.
 
 Você também pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
