@@ -1,12 +1,12 @@
 ---
-name: Adicionar nova vaga
-about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] Front-end Developer na [Nome da Empresa]"
+name: Adicionar Vaga
+about: Siga todas as instruções do template para abrir a vaga.
+title: "[Cidade/Remoto] Front-end Developer na [Nome da Empresa]"
 ---
 
 # <!--
 
-POR FAVOR, SÓ POSTE SE A VAGA FOR RELACIONADA A DESENVOLVIMENTO FRONT-END, BACK-END, MOBILE, DEVOPS, QA E U.X.!
+POR FAVOR, POSTE SOMENTE VAGAS RELACIONADAS A DESENVOLVIMENTO FRONT-END, BACK-END, MOBILE, DESKTOP, DEVOPS, QA E U.X.!
 
 Não faça distinção de gênero no título da vaga.
 
