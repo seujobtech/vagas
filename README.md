@@ -2,7 +2,7 @@
 
 Espaço para a divulgação de vagas para devs via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/seujobtech/vagas
+Vagas disponíveis em https://seujob.tech/
 
 ### Cadastrando uma vaga
 
