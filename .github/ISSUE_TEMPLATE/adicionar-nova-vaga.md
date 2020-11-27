@@ -89,7 +89,7 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Mobile
 - DevOps
 - QA
-- UX
+- UI-UX
 
 #### Alocação
 
