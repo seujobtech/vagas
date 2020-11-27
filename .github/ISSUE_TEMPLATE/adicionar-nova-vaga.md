@@ -82,6 +82,15 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 
 <!-- retire os labels que não fazem sentido à vaga -->
 
+#### Categoria
+
+- Front-End
+- Back-End
+- Mobile
+- DevOps
+- QA
+- UI/UX Design
+
 #### Alocação
 
 - Alocado
