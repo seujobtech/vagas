@@ -1,4 +1,4 @@
-# SeuJob.Tech Vagas
+# Comunidade Seu Job Tech 
 
 Espaço para a divulgação de vagas no site **[SeuJob.Tech](https://seujob.tech/)** via _issues_ do Github.
 
@@ -20,7 +20,7 @@ Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
 ### Como receber atualizações de novas vagas:
 
-Através do site [SeuJob.Tech](https://seujob.tech/), que por sua vez também possui uma categoria dedicada para vagas da [Comunidade SeuJob.Tech](https://seujob.tech/categorias/comunidade-seujobtech).
+Através do site [SeuJob.Tech](https://seujob.tech/), que por sua vez também possui uma categoria dedicada para vagas da [Comunidade Seu Job Tech](https://seujob.tech/categorias/comunidade-seujobtech).
 
 Vagas deste repositório poderão ser compartilhadas de forma randômica no [Twitter](https://twitter.com/seujobtech), [Telegram](https://t.me/seujobtech), ,[Instagram](https://instagram.com/seujobtech), [Facebook](https://facebook.com/seujobtech), [LinkedIn](https://www.linkedin.com/company/seujobtech) e [Newsletter]().
 
@@ -30,7 +30,7 @@ Você também pode receber atualizações das vagas no seu email ou via notifica
 
 ## Licença
 
-[MIT](/LICENSE) &copy; SeuJob.Tech
+[MIT](/LICENSE) &copy; Seu Job Tech 
 
 ## Agradecimento
 
