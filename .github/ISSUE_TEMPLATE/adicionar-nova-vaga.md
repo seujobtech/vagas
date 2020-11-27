@@ -10,8 +10,7 @@ POR FAVOR, PUBLIQUE SOMENTE VAGAS RELACIONADAS A DESENVOLVIMENTO FRONT-END, BACK
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de
-"Desenvolvedor Front-End" \o/
+Use: "Front-End Developer" ao invés de "Desenvolvedor Front-End" \o/
 
 # Exemplo: `[Minas Gerais] Front-End Developer na [NOME DA EMPRESA]`
 
