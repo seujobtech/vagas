@@ -6,7 +6,7 @@ title: "[Cidade/Remoto] Front-end Developer na [Nome da Empresa]"
 
 # <!--
 
-POR FAVOR, POSTE SOMENTE VAGAS RELACIONADAS A DESENVOLVIMENTO FRONT-END, BACK-END, MOBILE, DESKTOP, DEVOPS, QA E U.X.!
+POR FAVOR, PUBLIQUE SOMENTE VAGAS RELACIONADAS A DESENVOLVIMENTO FRONT-END, BACK-END, MOBILE, DESKTOP, DEVOPS, QA E U.X.!
 
 Não faça distinção de gênero no título da vaga.
 
@@ -35,15 +35,18 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 
 - 3 anos de experiência com Node
 - 2 anos de experiência com mongodb e express
+- ...
 
 **Desejáveis:**
 
 - conhecimentos em ruby on rails
 - conhecimentos em C#
+- ...
 
 **Diferenciais:**
 
 - projetos opensource
+- ...
 
 ## Benefícios
 
